@@ -3,7 +3,7 @@
 An unsupervised deep learning pipeline for clustering music tracks based on acoustic features and lyrical content. This project extracts Mel-frequency cepstral coefficients (MFCCs) from 30-second audio windows and projects them into a low-dimensional latent space using Variational Autoencoders (VAEs). 
 
 The analysis bridges standard Western datasets with regional music by combining the GTZAN genre collection with a custom BanglaBeats dataset.
-## [Project Paper](https://drive.google.com/file/d/1ygnVgW69BIYJYl_ilaGBRQmV3VqecKwJ/view?usp=drive_link)
+<!--## [Project Paper](https://drive.google.com/file/d/1ygnVgW69BIYJYl_ilaGBRQmV3VqecKwJ/view?usp=drive_link)-->
 ---
 
 ## Table of Contents
